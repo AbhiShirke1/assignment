@@ -1,0 +1,135 @@
+
+.leftOne{
+    padding: 6px;
+    width: 635px;
+    height: 210.5px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #FFF;   
+    box-shadow: 0.75px 0.75px 4.5px 0px rgba(123, 97, 255, 0.25);
+}
+
+.profile{
+    width: 620px;
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.profilePic{
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 72px;
+    background-image: url('https://s3-alpha-sig.figma.com/img/e011/4c44/d839d34f24d7cfca6b2283d424439554?Expires=1699833600&Signature=KMhIDcMWkTxEXj6afnVfVxC9Qzl1EqiRgY7aV~~jV3T1jvZmyo9Av0MvSdrteh8Jwm56Pq5M0e58YhMkhYofQuGmzaFkPWZydkyipD9oST4cE9nfUpqwSqNJpObraoGF8JF3ltHtgrTkKjFvcYNhrCpE8~rnSGU7fYYYtSHZnyxAhhN8cCvJ~UIYrdr-bXX3hM4TXmxY1z0rGCJIjQBMaUzAM29EUUNwBVW8DSkLewaPi49Ma7Nz8vPwkmn5MuaLtRUABRp92VXo33M8EFAciBKVUs46TDMf8txck1nQF40cP3ujHUcaFTVsVTDlDdTfUXWAQUPU~pFmVt6DTWYTZQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    background:  lightgray 50% / cover no-repeat, #D9D9D9;
+}
+
+.profileDetails{
+    color: #000;
+    padding-left: 5px;
+    font-family: Poppins;
+    font-size: 13.5px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    padding: 3px 0;
+}
+
+p{
+    margin: 0;
+}
+
+.imgs{
+    padding-left: 20px;
+}
+
+.job{
+    color: #000;
+    font-family: Poppins;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.jobIn{
+    padding: 1px 0;
+}
+
+.contact{
+    display: flex;
+    color: #455468;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.pen{
+    position: relative;
+    left: 100%;
+}
+
+.skills{
+    width: 80%;
+    display: grid;
+    /* grid-auto-rows: repeat(10, 1fr); */
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    grid-template-rows: 2;
+    gap: 4px;
+    padding-left: 10px;
+    margin-top: 10px;
+    
+}
+
+.skillBox{
+    color: #3D4A5C;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: #e7e9ec;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.location{
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.location2{
+    display: flex;
+}
+
+.light{
+    color: #5E718D;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; /* 215.385% */
+    letter-spacing: -0.225px;
+    padding-right: 5px;
+}
+
+.dark{
+    color: #2D3643;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21px; /* 215.385% */
+    letter-spacing: -0.225px;
+}

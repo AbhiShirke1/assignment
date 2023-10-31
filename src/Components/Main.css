@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    width: 1440px;
+    height: 931px;
+    padding: 47px 303px;
+    justify-content: center;
+    align-items: center;
+    background-color: #E9EFF6;
+}
+
+.mainContainer{
+    display: flex;
+    width: 834px;
+    height: 837px;
+    padding: 0.25px 0px 0.125px 0px;
+    flex-shrink: 0;
+}
+
+
+

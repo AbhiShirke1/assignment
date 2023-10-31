@@ -1,0 +1,54 @@
+.rightFour{
+    width: 182px;
+    height: 259px;
+    flex-shrink: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 4.5px;
+    background: #FFF;
+    box-shadow: 0.5625px 0.5625px 3.375px 0px rgba(123, 97, 255, 0.25);
+}
+
+.fourInside{
+    padding: 20px 23px 10px 20px;
+}
+
+
+.rightFourTitle{
+    display: flex;
+    align-items: center;
+}
+
+.personal{
+    width: 85.5px;
+    padding-left: 3px;
+    color: #000;
+    font-family: Poppins;
+    font-size: 10.5px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 15.75px; /* 150% */
+    letter-spacing: -0.169px;
+}
+
+.some{
+    padding: 3px 0;
+}
+
+.lights{
+    color: #5E718D;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.darks{
+    color: #000;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: normal;
+}

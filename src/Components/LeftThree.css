@@ -1,0 +1,112 @@
+
+.leftThree{
+    width: 645px;
+    margin-top: 10px;
+    height: 165.75px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #FFF;
+    box-shadow: 0.75px 0.75px 4.5px 0px rgba(123, 97, 255, 0.25);
+}
+
+.threeInside{
+    padding: 15px 15px 10px 20px;
+}
+
+.workTitle{
+    display: flex;
+    align-items: center;
+    color: #000;
+    font-family: Poppins;
+    font-size: 10.5px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.work{
+    color: #000;
+    font-family: Poppins;
+    font-size: 10.5px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.workContents{
+    color: #2D3643;
+    width: 70%;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 16px;
+    padding-top: 10px;
+}
+
+.lineup{
+    display: flex;
+    align-items: center;
+    padding-left: 2px;
+}
+
+.lineupx{
+    color: #000;
+    font-family: Poppins;
+    font-size: 10.5px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21px; /* 200% */
+    letter-spacing: -0.225px;
+}
+
+.front{
+    display: flex;
+    align-items: center;
+}
+
+.frontP{
+    color: #1C222B;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; /* 215.385% */
+    letter-spacing: -0.225px;
+}
+
+ul{
+    margin: 0;
+}
+
+.li{
+    color: #1C222B;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px; /* 215.385% */
+    letter-spacing: -0.225px;
+}
+
+.timePeriod{
+    color: #5E718D;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; /* 215.385% */
+    letter-spacing: -0.225px;
+}
+
+.mainWork{
+    color: #5E718D;
+    width: 531.75px;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.5px; /* 138.462% */
+    letter-spacing: -0.225px;
+}

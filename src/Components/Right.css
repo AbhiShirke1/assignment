@@ -1,0 +1,104 @@
+.rectOne{
+    width: 181.5px;
+    height: 134.25px;
+    flex-shrink: 0;
+    border-radius: 4.5px;
+    background: #FFF;
+    box-shadow: 0.5625px 0.5625px 3.375px 0px rgba(123, 97, 255, 0.25);
+    margin-left: 10px;
+}
+
+.rectOneInside{
+    padding: 8px 10px 10px 10px;
+}
+
+.trohpy{
+    background-color: yellow;
+}
+
+.certify{
+    display: flex;
+    align-items: center;
+}
+
+.certifyP{
+    width: 63.75px;
+    color: #000;
+    font-family: Poppins;
+    font-size: 10.5px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.courseName{
+    display: flex;
+    align-items: center;
+}
+
+.courseDetails{
+    padding-top: 7px;
+}
+
+.coursera{
+    color: #000;
+    width: 45px;
+    padding-left: 8px;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 15.75px; /* 161.538% */
+    letter-spacing: -0.169px;
+}
+
+.web{
+    width: 131.25px;
+    color: #1C222B;
+    padding-left: 8px;
+    font-family: Poppins;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15.75px; /* 175% */
+    letter-spacing: -0.169px;
+}
+
+.courseDate{
+    width: 87.75px;
+    padding-left: 8px;
+    color: #5E718D;
+    font-family: Poppins;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15.75px; /* 175% */
+    letter-spacing: -0.169px;
+}
+
+.upload{
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+}
+
+.show{
+    color: #463987;
+    padding-left: 2px;
+    padding-top: 2px;
+    font-family: Poppins;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21px; /* 233.333% */
+    letter-spacing: -0.225px;
+}
+
+.pencil2{
+    width: 13.5px;
+    height: 13.5px;
+    flex-shrink: 0;
+    position: relative;
+    left: 85%;
+    top: 6px;
+}

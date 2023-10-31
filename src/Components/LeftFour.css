@@ -1,0 +1,85 @@
+
+.leftFour{
+    margin-top: 10px;
+    width: 645px;
+    height: 123px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #FFF;
+    box-shadow: 0.75px 0.75px 4.5px 0px rgba(123, 97, 255, 0.25);
+}
+
+.collegeContents{
+    padding: 15px 15px 10px 20px;
+}
+
+.eduTitle{
+    display: flex;
+    align-items: center;
+}
+
+.education{
+    color: #000;
+    font-family: Poppins;
+    font-size: 10.5px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.college{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    padding-left: 12px;
+}
+
+.clgName{
+    color: #000;
+    font-family: Poppins;
+    font-size: 10.5px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.clgDetails{
+    align-items: center;
+    display: flex;
+    color: #1C222B;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px; /* 215.385% */
+    letter-spacing: -0.225px;
+}
+
+.ul2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.li2{
+    padding-left: 2px;
+}
+
+.course{
+    padding-left: 10px;
+}
+
+.dot{
+    padding-left: 10px;
+    padding-right: 2px;
+}
+
+.month{
+    color: #5E718D;
+    padding-left: 10px;
+    font-family: Poppins;
+    font-size: 9.75px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; /* 215.385% */
+    letter-spacing: -0.225px;
+}
